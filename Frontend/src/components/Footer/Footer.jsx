@@ -26,14 +26,14 @@ const Footer = () => {
         <div className={style.FooterContentRight}>
             <h2>Get In Touch</h2>
             <ul>
-                <li>+91 9902901869</li>
+                <li>+919618215417</li>
                 <li>QuickBite@gmail.com</li>
             </ul>
         </div>
       </div>
       <hr />
       <p className={style.FooterCopyrigth}>
-        CopyRight 2024 ©️ Company.com - All Rights Reserved.
+        CopyRight 2025 ©️ Company.com - All Rights Reserved.
       </p>
     </div>
   );
